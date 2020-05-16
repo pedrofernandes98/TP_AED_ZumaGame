@@ -1,0 +1,577 @@
+Jogo iniciado!
+
+
+Elementos da Lista: 8
+
+1 - Vermelho
+2 - Azul
+3 - Azul
+4 - Azul
+5 - Azul
+6 - Azul
+7 - Azul
+8 - Vermelho
+Os elementos 2 - 3 - 4 - 5 possuem a mesma cor. Você ganhou 3 pontos!
+Elementos da Lista: 4
+
+1 - Vermelho
+2 - Azul
+3 - Azul
+4 - Vermelho
+Não existem sequências para pontuar!
+Digite a posição que deseja inserir um novo Item: 3
+Um Item Azul foi inserido na posição 3!
+Elementos da Lista: 5
+
+1 - Vermelho
+2 - Azul
+3 - Azul
+4 - Azul
+5 - Vermelho
+Os elementos 2 - 3 - 4 possuem a mesma cor. Você ganhou 2 pontos!
+Elementos da Lista: 2
+
+1 - Vermelho
+2 - Vermelho
+Não existem sequências para pontuar!
+Digite a posição que deseja inserir um novo Item: 1
+Um Item Verde foi inserido na posição 1!
+Elementos da Lista: 3
+
+1 - Verde
+2 - Vermelho
+3 - Vermelho
+Não existem sequências para pontuar!
+Digite a posição que deseja inserir um novo Item: 2
+Um Item Amarelo foi inserido na posição 2!
+Elementos da Lista: 4
+
+1 - Verde
+2 - Amarelo
+3 - Vermelho
+4 - Vermelho
+Não existem sequências para pontuar!
+Digite a posição que deseja inserir um novo Item: 2
+Um Item Amarelo foi inserido na posição 2!
+Elementos da Lista: 5
+
+1 - Verde
+2 - Amarelo
+3 - Amarelo
+4 - Vermelho
+5 - Vermelho
+Não existem sequências para pontuar!
+Digite a posição que deseja inserir um novo Item: 1
+Um Item Vermelho foi inserido na posição 1!
+Elementos da Lista: 6
+
+1 - Vermelho
+2 - Verde
+3 - Amarelo
+4 - Amarelo
+5 - Vermelho
+6 - Vermelho
+Não existem sequências para pontuar!
+Digite a posição que deseja inserir um novo Item: 5
+Um Item Verde foi inserido na posição 5!
+Elementos da Lista: 7
+
+1 - Vermelho
+2 - Verde
+3 - Amarelo
+4 - Amarelo
+5 - Verde
+6 - Vermelho
+7 - Vermelho
+Não existem sequências para pontuar!
+Digite a posição que deseja inserir um novo Item: 6
+Um Item Verde foi inserido na posição 6!
+Elementos da Lista: 8
+
+1 - Vermelho
+2 - Verde
+3 - Amarelo
+4 - Amarelo
+5 - Verde
+6 - Verde
+7 - Vermelho
+8 - Vermelho
+Não existem sequências para pontuar!
+Digite a posição que deseja inserir um novo Item: 7
+Um Item Verde foi inserido na posição 7!
+Elementos da Lista: 9
+
+1 - Vermelho
+2 - Verde
+3 - Amarelo
+4 - Amarelo
+5 - Verde
+6 - Verde
+7 - Verde
+8 - Vermelho
+9 - Vermelho
+Os elementos 5 - 6 - 7 possuem a mesma cor. Você ganhou 2 pontos!
+Elementos da Lista: 6
+
+1 - Vermelho
+2 - Verde
+3 - Amarelo
+4 - Amarelo
+5 - Vermelho
+6 - Vermelho
+Não existem sequências para pontuar!
+Digite a posição que deseja inserir um novo Item: 5
+Um Item Verde foi inserido na posição 5!
+Elementos da Lista: 7
+
+1 - Vermelho
+2 - Verde
+3 - Amarelo
+4 - Amarelo
+5 - Verde
+6 - Vermelho
+7 - Vermelho
+Não existem sequências para pontuar!
+Digite a posição que deseja inserir um novo Item: 6
+Um Item Azul foi inserido na posição 6!
+Elementos da Lista: 8
+
+1 - Vermelho
+2 - Verde
+3 - Amarelo
+4 - Amarelo
+5 - Verde
+6 - Azul
+7 - Vermelho
+8 - Vermelho
+Não existem sequências para pontuar!
+Digite a posição que deseja inserir um novo Item: 7
+Um Item Verde foi inserido na posição 7!
+Elementos da Lista: 9
+
+1 - Vermelho
+2 - Verde
+3 - Amarelo
+4 - Amarelo
+5 - Verde
+6 - Azul
+7 - Verde
+8 - Vermelho
+9 - Vermelho
+Não existem sequências para pontuar!
+Digite a posição que deseja inserir um novo Item: 7
+Um Item Azul foi inserido na posição 7!
+Elementos da Lista: 10
+
+1 - Vermelho
+2 - Verde
+3 - Amarelo
+4 - Amarelo
+5 - Verde
+6 - Azul
+7 - Azul
+8 - Verde
+9 - Vermelho
+10 - Vermelho
+Não existem sequências para pontuar!
+Digite a posição que deseja inserir um novo Item: 9
+Um Item Amarelo foi inserido na posição 9!
+Elementos da Lista: 11
+
+1 - Vermelho
+2 - Verde
+3 - Amarelo
+4 - Amarelo
+5 - Verde
+6 - Azul
+7 - Azul
+8 - Verde
+9 - Amarelo
+10 - Vermelho
+11 - Vermelho
+Não existem sequências para pontuar!
+Digite a posição que deseja inserir um novo Item: 11
+Um Item Verde foi inserido na posição 11!
+Elementos da Lista: 12
+
+1 - Vermelho
+2 - Verde
+3 - Amarelo
+4 - Amarelo
+5 - Verde
+6 - Azul
+7 - Azul
+8 - Verde
+9 - Amarelo
+10 - Vermelho
+11 - Vermelho
+12 - Verde
+Não existem sequências para pontuar!
+Digite a posição que deseja inserir um novo Item: 4
+Um Item Verde foi inserido na posição 4!
+Elementos da Lista: 13
+
+1 - Vermelho
+2 - Verde
+3 - Amarelo
+4 - Verde
+5 - Amarelo
+6 - Verde
+7 - Azul
+8 - Azul
+9 - Verde
+10 - Amarelo
+11 - Vermelho
+12 - Vermelho
+13 - Verde
+Não existem sequências para pontuar!
+Digite a posição que deseja inserir um novo Item: 10
+Um Item Vermelho foi inserido na posição 10!
+Elementos da Lista: 14
+
+1 - Vermelho
+2 - Verde
+3 - Amarelo
+4 - Verde
+5 - Amarelo
+6 - Verde
+7 - Azul
+8 - Azul
+9 - Verde
+10 - Vermelho
+11 - Amarelo
+12 - Vermelho
+13 - Vermelho
+14 - Verde
+Não existem sequências para pontuar!
+Digite a posição que deseja inserir um novo Item: 8
+Um Item Amarelo foi inserido na posição 8!
+Elementos da Lista: 15
+
+1 - Vermelho
+2 - Verde
+3 - Amarelo
+4 - Verde
+5 - Amarelo
+6 - Verde
+7 - Azul
+8 - Amarelo
+9 - Azul
+10 - Verde
+11 - Vermelho
+12 - Amarelo
+13 - Vermelho
+14 - Vermelho
+15 - Verde
+Não existem sequências para pontuar!
+Digite a posição que deseja inserir um novo Item: 9
+Um Item Vermelho foi inserido na posição 9!
+Elementos da Lista: 16
+
+1 - Vermelho
+2 - Verde
+3 - Amarelo
+4 - Verde
+5 - Amarelo
+6 - Verde
+7 - Azul
+8 - Amarelo
+9 - Vermelho
+10 - Azul
+11 - Verde
+12 - Vermelho
+13 - Amarelo
+14 - Vermelho
+15 - Vermelho
+16 - Verde
+Não existem sequências para pontuar!
+Digite a posição que deseja inserir um novo Item: 10
+Um Item Vermelho foi inserido na posição 10!
+Elementos da Lista: 17
+
+1 - Vermelho
+2 - Verde
+3 - Amarelo
+4 - Verde
+5 - Amarelo
+6 - Verde
+7 - Azul
+8 - Amarelo
+9 - Vermelho
+10 - Vermelho
+11 - Azul
+12 - Verde
+13 - Vermelho
+14 - Amarelo
+15 - Vermelho
+16 - Vermelho
+17 - Verde
+Não existem sequências para pontuar!
+Digite a posição que deseja inserir um novo Item: 10
+Um Item Vermelho foi inserido na posição 10!
+Elementos da Lista: 18
+
+1 - Vermelho
+2 - Verde
+3 - Amarelo
+4 - Verde
+5 - Amarelo
+6 - Verde
+7 - Azul
+8 - Amarelo
+9 - Vermelho
+10 - Vermelho
+11 - Vermelho
+12 - Azul
+13 - Verde
+14 - Vermelho
+15 - Amarelo
+16 - Vermelho
+17 - Vermelho
+18 - Verde
+Os elementos 9 - 10 - 11 possuem a mesma cor. Você ganhou 2 pontos!
+Elementos da Lista: 15
+
+1 - Vermelho
+2 - Verde
+3 - Amarelo
+4 - Verde
+5 - Amarelo
+6 - Verde
+7 - Azul
+8 - Amarelo
+9 - Azul
+10 - Verde
+11 - Vermelho
+12 - Amarelo
+13 - Vermelho
+14 - Vermelho
+15 - Verde
+Não existem sequências para pontuar!
+Digite a posição que deseja inserir um novo Item: 7
+Um Item Verde foi inserido na posição 7!
+Elementos da Lista: 16
+
+1 - Vermelho
+2 - Verde
+3 - Amarelo
+4 - Verde
+5 - Amarelo
+6 - Verde
+7 - Verde
+8 - Azul
+9 - Amarelo
+10 - Azul
+11 - Verde
+12 - Vermelho
+13 - Amarelo
+14 - Vermelho
+15 - Vermelho
+16 - Verde
+Não existem sequências para pontuar!
+Digite a posição que deseja inserir um novo Item: 11
+Um Item Amarelo foi inserido na posição 11!
+Elementos da Lista: 17
+
+1 - Vermelho
+2 - Verde
+3 - Amarelo
+4 - Verde
+5 - Amarelo
+6 - Verde
+7 - Verde
+8 - Azul
+9 - Amarelo
+10 - Azul
+11 - Amarelo
+12 - Verde
+13 - Vermelho
+14 - Amarelo
+15 - Vermelho
+16 - Vermelho
+17 - Verde
+Não existem sequências para pontuar!
+Digite a posição que deseja inserir um novo Item: 15
+Um Item Vermelho foi inserido na posição 15!
+Elementos da Lista: 18
+
+1 - Vermelho
+2 - Verde
+3 - Amarelo
+4 - Verde
+5 - Amarelo
+6 - Verde
+7 - Verde
+8 - Azul
+9 - Amarelo
+10 - Azul
+11 - Amarelo
+12 - Verde
+13 - Vermelho
+14 - Amarelo
+15 - Vermelho
+16 - Vermelho
+17 - Vermelho
+18 - Verde
+Os elementos 15 - 16 - 17 possuem a mesma cor. Você ganhou 2 pontos!
+Elementos da Lista: 15
+
+1 - Vermelho
+2 - Verde
+3 - Amarelo
+4 - Verde
+5 - Amarelo
+6 - Verde
+7 - Verde
+8 - Azul
+9 - Amarelo
+10 - Azul
+11 - Amarelo
+12 - Verde
+13 - Vermelho
+14 - Amarelo
+15 - Verde
+Não existem sequências para pontuar!
+Digite a posição que deseja inserir um novo Item: 12
+Um Item Vermelho foi inserido na posição 12!
+Elementos da Lista: 16
+
+1 - Vermelho
+2 - Verde
+3 - Amarelo
+4 - Verde
+5 - Amarelo
+6 - Verde
+7 - Verde
+8 - Azul
+9 - Amarelo
+10 - Azul
+11 - Amarelo
+12 - Vermelho
+13 - Verde
+14 - Vermelho
+15 - Amarelo
+16 - Verde
+Não existem sequências para pontuar!
+Digite a posição que deseja inserir um novo Item: 3
+Um Item Vermelho foi inserido na posição 3!
+Elementos da Lista: 17
+
+1 - Vermelho
+2 - Verde
+3 - Vermelho
+4 - Amarelo
+5 - Verde
+6 - Amarelo
+7 - Verde
+8 - Verde
+9 - Azul
+10 - Amarelo
+11 - Azul
+12 - Amarelo
+13 - Vermelho
+14 - Verde
+15 - Vermelho
+16 - Amarelo
+17 - Verde
+Não existem sequências para pontuar!
+Digite a posição que deseja inserir um novo Item: 8
+Um Item Amarelo foi inserido na posição 8!
+Elementos da Lista: 18
+
+1 - Vermelho
+2 - Verde
+3 - Vermelho
+4 - Amarelo
+5 - Verde
+6 - Amarelo
+7 - Verde
+8 - Amarelo
+9 - Verde
+10 - Azul
+11 - Amarelo
+12 - Azul
+13 - Amarelo
+14 - Vermelho
+15 - Verde
+16 - Vermelho
+17 - Amarelo
+18 - Verde
+Não existem sequências para pontuar!
+Digite a posição que deseja inserir um novo Item: 16
+Um Item Amarelo foi inserido na posição 16!
+Elementos da Lista: 19
+
+1 - Vermelho
+2 - Verde
+3 - Vermelho
+4 - Amarelo
+5 - Verde
+6 - Amarelo
+7 - Verde
+8 - Amarelo
+9 - Verde
+10 - Azul
+11 - Amarelo
+12 - Azul
+13 - Amarelo
+14 - Vermelho
+15 - Verde
+16 - Amarelo
+17 - Vermelho
+18 - Amarelo
+19 - Verde
+Não existem sequências para pontuar!
+Digite a posição que deseja inserir um novo Item: 7
+Um Item Azul foi inserido na posição 7!
+Elementos da Lista: 20
+
+1 - Vermelho
+2 - Verde
+3 - Vermelho
+4 - Amarelo
+5 - Verde
+6 - Amarelo
+7 - Azul
+8 - Verde
+9 - Amarelo
+10 - Verde
+11 - Azul
+12 - Amarelo
+13 - Azul
+14 - Amarelo
+15 - Vermelho
+16 - Verde
+17 - Amarelo
+18 - Vermelho
+19 - Amarelo
+20 - Verde
+Não existem sequências para pontuar!
+Digite a posição que deseja inserir um novo Item: 12
+Um Item Verde foi inserido na posição 12!
+Elementos da Lista: 21
+
+1 - Vermelho
+2 - Verde
+3 - Vermelho
+4 - Amarelo
+5 - Verde
+6 - Amarelo
+7 - Azul
+8 - Verde
+9 - Amarelo
+10 - Verde
+11 - Azul
+12 - Verde
+13 - Amarelo
+14 - Azul
+15 - Amarelo
+16 - Vermelho
+17 - Verde
+18 - Amarelo
+19 - Vermelho
+20 - Amarelo
+21 - Verde
+Não existem sequências para pontuar!
+O número de elementos da lista passou do Máximo permitido, você perdeu!
+Fim de Jogo - Pontuação FINAL: 11 pontos
