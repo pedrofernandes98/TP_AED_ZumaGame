@@ -1,0 +1,7 @@
+C:\Users\Pedro Fernandes\Desktop\PUC\4° Período\AED_Praticas\TrabalhoPratico2_Zuma\TP2_ZumaGame\TP2_ZumaGame\bin\Debug\TP2_ZumaGame.exe.config
+C:\Users\Pedro Fernandes\Desktop\PUC\4° Período\AED_Praticas\TrabalhoPratico2_Zuma\TP2_ZumaGame\TP2_ZumaGame\bin\Debug\TP2_ZumaGame.exe
+C:\Users\Pedro Fernandes\Desktop\PUC\4° Período\AED_Praticas\TrabalhoPratico2_Zuma\TP2_ZumaGame\TP2_ZumaGame\bin\Debug\TP2_ZumaGame.pdb
+C:\Users\Pedro Fernandes\Desktop\PUC\4° Período\AED_Praticas\TrabalhoPratico2_Zuma\TP2_ZumaGame\TP2_ZumaGame\obj\Debug\TP2_ZumaGame.csprojAssemblyReference.cache
+C:\Users\Pedro Fernandes\Desktop\PUC\4° Período\AED_Praticas\TrabalhoPratico2_Zuma\TP2_ZumaGame\TP2_ZumaGame\obj\Debug\TP2_ZumaGame.csproj.CoreCompileInputs.cache
+C:\Users\Pedro Fernandes\Desktop\PUC\4° Período\AED_Praticas\TrabalhoPratico2_Zuma\TP2_ZumaGame\TP2_ZumaGame\obj\Debug\TP2_ZumaGame.exe
+C:\Users\Pedro Fernandes\Desktop\PUC\4° Período\AED_Praticas\TrabalhoPratico2_Zuma\TP2_ZumaGame\TP2_ZumaGame\obj\Debug\TP2_ZumaGame.pdb
