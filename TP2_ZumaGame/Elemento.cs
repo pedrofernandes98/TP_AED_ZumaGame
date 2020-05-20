@@ -11,10 +11,12 @@ namespace TP2_ZumaGame
         public int Cod;
         public string Cor;
 
-        public Item(int cod)
+        public Item(int cod) //Construtor da classe que recebe um código como parâmetro 
         {
-            switch (cod)
-            {
+            Cod = cod;//Atribui o código para o atributo código
+            switch (cod)//Atribui a cor do Item de acordo com o código passado seguindo a regra a seguir:
+            {           //1 - Amarelo, 2 - Azul, 3 - Vermelho e 4 - Verde
+                        //Caso o código seja diferente desses valores, nenhuma cor é atribuída 
                 case 1:
                     Cor = "Amarelo";
                     break;
@@ -44,14 +46,14 @@ namespace TP2_ZumaGame
         public Elemento Prox;
         public Elemento Ant;
 
-        public Elemento(int cod)
+        public Elemento(int cod) // Construtor da Classe, recebe um inteiro como parâmetro para instânciar um novo Item
         {
             Item = new Item(cod);
             Prox = null;
             Ant = null;
         }
 
-        public Elemento()
+        public Elemento() //Construtor da Classe caso não seja passado nenhum parâmetro
         {
             Item = null;
             Prox = null;
